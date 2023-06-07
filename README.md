@@ -22,4 +22,3 @@ sudo apt install swaks -y
 
 2. Set up a app password for your Google mail and make sure the SMTP settings match the script.
 
-That's it. It should work.
